@@ -9,6 +9,7 @@
   279  git commit -m "initial commit" 
   280  git commit --amend --reset-author
 
+-----------
 
   284  git remote add origin git@github.com:alaimar/docker-react.git
   
