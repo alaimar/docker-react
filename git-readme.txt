@@ -18,3 +18,23 @@
   340  pbcopy < ~/.ssh/id_ed25519.pub
   341  git push -u origin main
   342  git push -v -u origin main
+
+  356  git config --global user.name "Alberto Aimar"
+  357  git config --global user.email alaimar@gmail.com
+  
+  
+  358   git commit --amend --reset-author
+  359  git push main
+  360  git push origin
+  361  ls
+  362  git commit -a
+  363           
+  
+  git add git-readme.txt
+  
+  364  git commit -a
+  365  git push origin
+  366  git commit -a
+  367  git push main
+  368  git push origin
+  369  git commit -a
