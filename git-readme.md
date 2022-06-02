@@ -1,5 +1,7 @@
+# GIT readme
 
-  274  git commit -m "initial commit" 
+**274  git commit -m "initial commit"**
+ 
   275  git config --global --edit
   276  git config --global --edit
   277  git config --global --edit
