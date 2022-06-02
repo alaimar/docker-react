@@ -1,7 +1,8 @@
 # GIT readme
 
 **274  git commit -m "initial commit"**
- 
+
+
   275  git config --global --edit
   276  git config --global --edit
   277  git config --global --edit
@@ -14,11 +15,16 @@
   284  git remote add origin git@github.com:alaimar/docker-react.git
   
   334  git push --set-upstream origin main
+
+# SSH Key 
+https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent 
+
   335  ssh-add -K ~/.ssh/id_ed25519
-  336  git push -u origin main
-  337  git push --set-upstream origin main
   
   340  pbcopy < ~/.ssh/id_ed25519.pub
+  
+  https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account 
+  
   341  git push -u origin main
   342  git push -v -u origin main
 
