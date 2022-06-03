@@ -28,3 +28,5 @@ jobs:
           region: us-east-1
           version_label: ${{ github.sha }}
           deployment_package: deploy.zip
+
+#  http://dockerreact-env.eba-ixvdfxup.us-east-1.elasticbeanstalk.com/
